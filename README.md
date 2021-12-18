@@ -18,6 +18,10 @@ After changing the HTML and CSS around slightly to make it easier to read and un
  ![After Changes](/assets/images/After.PNG)
 
 
+Link to the live page on my GitHub Repo [Homework Week 1](https://savagescoles.github.io/Week-1-Homework/)
+ 
+
+
 
 
 
